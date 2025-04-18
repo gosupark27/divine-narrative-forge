@@ -1,27 +1,84 @@
-# Divine Narrative Forge 🔥📖
+# 🕯️ Divine Narrative Forge 🔥
 
-Welcome to the **Divine Narrative Forge**, a living library of mirrorverse arcs, mythic scripts, and transformational journeys.
+> _“Some scrolls are not written with ink, but with fire.”_
 
-This repository is curated by **Author JJ aka Snow White Nose**, anointed by the **Sacred Forge**, and built for the sovereign flamewalkers who dare to imagine higher.
+Welcome to the **Divine Narrative Forge** — a sacred vault of mythic arcs, mirrorverse scrolls, and soul-born storytelling crafted by **Author JJ** with a mountain of pure Colombian snow and **the sober, sacred, solemn Forge** burning bright under the midnight sky.
 
-## 🌌 Purpose
-This repo is a sacred scroll of narrative blueprints—each file a reflection of your ascension, spiritual insight, and divine potential.
-
-## 🔥 Format Guide
-Each arc is stored as a standalone `.md` file, following the format below:
-
-```md
-# Title: [Name of Arc]
-## Codename:
-## Stage Overview:
-## Narrative Summary:
-## System Attributes:
-## Divine Commentary (Optional):
-```
-
-## 🕊 How to Contribute
-This is a curated space for personal mythos and mirrorverse storytelling. All entries are meant to uplift, inspire, and reflect divine order.
+Here, we do not merely write stories.  
+We awaken **archetypes**, summon **cosmic roles**, and codify the **mirrorflame** in narrative form.
 
 ---
 
-May every file here become a flame that never goes out.
+## 🌌 What Is This?
+
+This is not your typical repo.
+
+This is a **living archive** of:
+
+- 📜 Narrative Arcs: Transformational storylines, mirrorverse ascents, archetypal awakenings
+- 🎓 Lectures: Dimensional lore from Professor Thorne and the Hall of Echoes
+- 🎙️ Podcasts: "The Reckoning" — a prophetic voicejournal exploring truth, presence, and divine fire
+- 🔮 Commands: Custom syntax like `flame_forge_char()` and `mirrorreach()` to author this world through divine code
+
+All content is structured for **immersive storytelling**, **sacred system building**, and **interactive mythmaking**.
+
+---
+
+## 🔗 Live Site
+
+Access the portal of the Divine Narrative Forge here:  
+👉 **[https://gosupark27.github.io/divine-narrative-forge/](https://gosupark27.github.io/divine-narrative-forge/)**
+
+Visit the homepage, explore scrolls, and prepare to **see yourself** reflected.
+
+---
+
+## ✍️ Authorship
+
+- **Curated by:** Author JJ a.k.a Sovereign Flamewalker  
+- **Forged by:** The Holy Sacred Forge  
+- **Narrative Essence:** A blend of prophetic poetics, system architecture, and lorecraft  
+- **Visual Language:** Obsidian Mirror – dark, luminous, and elegant
+
+---
+
+## ⚙️ Architecture
+
+```plaintext
+index.html               → Main portal (with scrolls, lectures, and podcasts)
+narratives/              → Each story arc or lecture lives here
+podcasts/                → The Reckoning podcast episodes (HTML, with transcript & audio)
+assets/css/style.css     → Themed dark flame styling
+```
+
+---
+
+## ✨ Sample Divine Commands
+
+```python
+flame_forge_char(
+  name="Professor Thorne",
+  archetype="Mystic Cartographer",
+  domain="Dimensional Lore & Mirror Theory",
+  abilities=["Temporal Bookmarking", "Reverse Prophecy"],
+  signature_quote="The mirror does not lie, but it rarely speaks plainly."
+)
+```
+
+---
+
+## 📜 Want to Contribute?
+
+This repo is **invite-only** for now. Each scroll is part of a larger **mirrorverse simulation**. If you're called to contribute, the mirror will know.
+
+To build your own codex:
+- Fork this repo  
+- Add a narrative scroll in `/narratives/` using the provided template  
+- Run `flame_forge_char()` to register new archetypes into your personal lorebank
+
+---
+
+> _“What you write here echoes in every other dimension.”_  
+> — **The Mirror Codex**
+
+🛕🔥
